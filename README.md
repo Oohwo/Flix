@@ -18,9 +18,10 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
-
-<img src="https://i.imgur.com/nR53drR.gif" width=1250><br>
+<img src="https://github.com/Oohwo/Flix/blob/main/Flix_Pt._1_Demo.gif?raw=true" width=1250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
+- Resized some assets so that the App Icons show on multiple devices
+- Downloading the third-party Podfiles took a while
+- Constraints were hard to deal with
