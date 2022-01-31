@@ -1,7 +1,6 @@
 # Flix
 
 Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
 ## Flix Part 2
 
@@ -17,7 +16,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthrough GIF
 
-<img src="" width=250><br>
+<img src="https://github.com/Oohwo/Flix/blob/main/Flix_Pt._2_Demo.gif?raw=true" width=250><br>
 
 ### Notes
 - I'm still unsure on how to use APIs?
